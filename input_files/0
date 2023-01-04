@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Wed, 04 Jan 2023 03:19:47 GMT
+Content-Type: application/json; charset=utf-8
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"658-Ic4ZqvCkNSI3HPzcQfBkcFvdNOY"
+Set-Cookie: connect.sid=s%3A-iVmpQXFZiEdQp_2PJ01cG3HTTWVGz82.sIrtMk2wbczlxRhWk3IGcCHhoR7jaKqhiJa%2BVxE33fY; Path=/; HttpOnly
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=s5QKxiqW1l6kBXFUb0OxBdfv%2B4aGkLUxPrDCoFosStvCqG15d0fqi2pysR3kqrTTqiZikin7%2BED2kOtA2MVJ0WC6M3Z6matiTwy0ygkdAjoJ2IeKNabignTGF%2BdLKaJAUoAzWhv7"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Strict-Transport-Security: max-age=0; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 7840d58e685a33a2-DEL
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{"_id":"63aebbb272eb67195005bc61","creditor_claim":"FORM CA","email_id":"kunalzagade15@gmail.com","__v":0,"address_person_signing":"401,Shreyas Complex,Tukaidarshan,Fursungi,Pune","amount_claimed":7560,"bank_account_statement":"No","createdAt":"2022-12-30T10:21:38.623Z","creditor":"5400","details_bank_account":"Ac No:30838085151\nIFSC Code:SBIN0009062\nBranch:Hadapsar","details_debt_occured":"25/04/2012","details_mutual_credit_debt":"NA","details_security_held":"NA","doc_reference":"Membership Receipt","documents_attached":"Membershp Receipt","edit_done":"yes","email_address_finacial_creditor":"kunalzagade15@gmail.com","folio_number":"10220158748","form_attachments":"No","form_name":null,"form_uploaded":"yes","from_address":"401,Shreays Complex,Tukaidarshan,Fursungi,Pune","from_name":"Kunal Suryakant Zagade","identification_finacial_creditor":"7560","identification_type":"PAN","insolvency_prof":"Mr. Vithal Madhukar Dahake","insolvency_professional":"Mr. Vithal Madhukar Dahake","membership_certificate":"Yes","membership_expiry_date":"25/7/2014","membership_number":"","name_in_block_letter":"KUNAL SURYAKANT ZAGADE","name_of_creditor":"Kunal Suryakant Zagade","phone_number":"8237391010","position_with_creditor":"SELF","proof_of_interest":"No","registration_number":"ACFPZ0465P","related_corporate_debtor":"I am not","rootFolderId":"1","rp_email":"Inpclip.19@outlook.com","rp_id":"1","rp_name":" DCirrus Resolute Ninteen","signature_financial_creditor":"","updatedAt":"2022-12-30T12:47:40.391Z","upload_declaration":"No","upload_identification_proof":"Yes","form_downloaded":"yes","creditorFolderId":"30001"}
