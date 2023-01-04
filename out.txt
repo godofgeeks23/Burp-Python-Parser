@@ -1,0 +1,108 @@
+Reading File -  input_files/0
+Headers : 
+{'Access-Control-Allow-Origin': '*',
+ 'Alt-Svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400',
+ 'Cf-Cache-Status': 'DYNAMIC',
+ 'Cf-Ray': '7840d58e685a33a2-DEL',
+ 'Content-Type': 'application/json; charset=utf-8',
+ 'Date': 'Wed, 04 Jan 2023 03:19:47 GMT',
+ 'Etag': 'W/"658-Ic4ZqvCkNSI3HPzcQfBkcFvdNOY"',
+ 'Nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}',
+ 'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=s5QKxiqW1l6kBXFUb0OxBdfv%2B4aGkLUxPrDCoFosStvCqG15d0fqi2pysR3kqrTTqiZikin7%2BED2kOtA2MVJ0WC6M3Z6matiTwy0ygkdAjoJ2IeKNabignTGF%2BdLKaJAUoAzWhv7"}],"group":"cf-nel","max_age":604800}',
+ 'Server': 'cloudflare',
+ 'Set-Cookie': 'connect.sid=s%3A-iVmpQXFZiEdQp_2PJ01cG3HTTWVGz82.sIrtMk2wbczlxRhWk3IGcCHhoR7jaKqhiJa%2BVxE33fY; '
+               'Path=/; HttpOnly',
+ 'Strict-Transport-Security': 'max-age=0; includeSubDomains; preload',
+ 'X-Content-Type-Options': 'nosniff',
+ 'X-Powered-By': 'Express'}
+Data : 
+('{"_id":"63aebbb272eb67195005bc61","creditor_claim":"FORM '
+ 'CA","email_id":"kunalzagade15@gmail.com","__v":0,"address_person_signing":"401,Shreyas '
+ 'Complex,Tukaidarshan,Fursungi,Pune","amount_claimed":7560,"bank_account_statement":"No","createdAt":"2022-12-30T10:21:38.623Z","creditor":"5400","details_bank_account":"Ac '
+ 'No:30838085151\\nIFSC '
+ 'Code:SBIN0009062\\nBranch:Hadapsar","details_debt_occured":"25/04/2012","details_mutual_credit_debt":"NA","details_security_held":"NA","doc_reference":"Membership '
+ 'Receipt","documents_attached":"Membershp '
+ 'Receipt","edit_done":"yes","email_address_finacial_creditor":"kunalzagade15@gmail.com","folio_number":"10220158748","form_attachments":"No","form_name":null,"form_uploaded":"yes","from_address":"401,Shreays '
+ 'Complex,Tukaidarshan,Fursungi,Pune","from_name":"Kunal Suryakant '
+ 'Zagade","identification_finacial_creditor":"7560","identification_type":"PAN","insolvency_prof":"Mr. '
+ 'Vithal Madhukar Dahake","insolvency_professional":"Mr. Vithal Madhukar '
+ 'Dahake","membership_certificate":"Yes","membership_expiry_date":"25/7/2014","membership_number":"","name_in_block_letter":"KUNAL '
+ 'SURYAKANT ZAGADE","name_of_creditor":"Kunal Suryakant '
+ 'Zagade","phone_number":"8237391010","position_with_creditor":"SELF","proof_of_interest":"No","registration_number":"ACFPZ0465P","related_corporate_debtor":"I '
+ 'am '
+ 'not","rootFolderId":"1","rp_email":"Inpclip.19@outlook.com","rp_id":"1","rp_name":" '
+ 'DCirrus Resolute '
+ 'Ninteen","signature_financial_creditor":"","updatedAt":"2022-12-30T12:47:40.391Z","upload_declaration":"No","upload_identification_proof":"Yes","form_downloaded":"yes","creditorFolderId":"30001"}')
+Reading File -  input_files/1
+Headers : 
+{'Access-Control-Allow-Origin': '*',
+ 'Alt-Svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400',
+ 'Cf-Cache-Status': 'DYNAMIC',
+ 'Cf-Ray': '7840d58e686833a2-DEL',
+ 'Content-Type': 'application/json; charset=utf-8',
+ 'Date': 'Wed, 04 Jan 2023 03:19:48 GMT',
+ 'Etag': 'W/"658-Ic4ZqvCkNSI3HPzcQfBkcFvdNOY"',
+ 'Nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}',
+ 'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=okvhLMM6EuO8iod3Tb9yrjDqWzMb99RgUF%2BI6x%2Be9KQPBh%2B3o9h7LUhq7K0F0S0uWkqXixso0caujPLNzOLBrbHhflNe4yNKx2LaoFpaxCx7X3xOD%2F6rg1fX%2BkcY8NG%2B%2BDYxA9zp"}],"group":"cf-nel","max_age":604800}',
+ 'Server': 'cloudflare',
+ 'Set-Cookie': 'connect.sid=s%3A6IBBm2bBwT-UE8Rk-PeCc1YH9Pdu-v6r.phbyXhm%2FYa%2FooyAZQgoP9LC978THDmY%2BisjjqYAmO2Q; '
+               'Path=/; HttpOnly',
+ 'Strict-Transport-Security': 'max-age=0; includeSubDomains; preload',
+ 'X-Content-Type-Options': 'nosniff',
+ 'X-Powered-By': 'Express'}
+Data : 
+('{"_id":"63aebbb272eb67195005bc61","creditor_claim":"FORM '
+ 'CA","email_id":"kunalzagade15@gmail.com","__v":0,"address_person_signing":"401,Shreyas '
+ 'Complex,Tukaidarshan,Fursungi,Pune","amount_claimed":7560,"bank_account_statement":"No","createdAt":"2022-12-30T10:21:38.623Z","creditor":"5400","details_bank_account":"Ac '
+ 'No:30838085151\\nIFSC '
+ 'Code:SBIN0009062\\nBranch:Hadapsar","details_debt_occured":"25/04/2012","details_mutual_credit_debt":"NA","details_security_held":"NA","doc_reference":"Membership '
+ 'Receipt","documents_attached":"Membershp '
+ 'Receipt","edit_done":"yes","email_address_finacial_creditor":"kunalzagade15@gmail.com","folio_number":"10220158748","form_attachments":"No","form_name":null,"form_uploaded":"yes","from_address":"401,Shreays '
+ 'Complex,Tukaidarshan,Fursungi,Pune","from_name":"Kunal Suryakant '
+ 'Zagade","identification_finacial_creditor":"7560","identification_type":"PAN","insolvency_prof":"Mr. '
+ 'Vithal Madhukar Dahake","insolvency_professional":"Mr. Vithal Madhukar '
+ 'Dahake","membership_certificate":"Yes","membership_expiry_date":"25/7/2014","membership_number":"","name_in_block_letter":"KUNAL '
+ 'SURYAKANT ZAGADE","name_of_creditor":"Kunal Suryakant '
+ 'Zagade","phone_number":"8237391010","position_with_creditor":"SELF","proof_of_interest":"No","registration_number":"ACFPZ0465P","related_corporate_debtor":"I '
+ 'am '
+ 'not","rootFolderId":"1","rp_email":"Inpclip.19@outlook.com","rp_id":"1","rp_name":" '
+ 'DCirrus Resolute '
+ 'Ninteen","signature_financial_creditor":"","updatedAt":"2022-12-30T12:47:40.391Z","upload_declaration":"No","upload_identification_proof":"Yes","form_downloaded":"yes","creditorFolderId":"30001"}')
+Reading File -  input_files/2
+Headers : 
+{'Access-Control-Allow-Origin': '*',
+ 'Alt-Svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400',
+ 'Cf-Cache-Status': 'DYNAMIC',
+ 'Cf-Ray': '7840d58e686133a2-DEL',
+ 'Content-Type': 'application/json; charset=utf-8',
+ 'Date': 'Wed, 04 Jan 2023 03:19:47 GMT',
+ 'Etag': 'W/"676-XgXoXpOToGgwD0nDtV2mIJpVu1g"',
+ 'Nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}',
+ 'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=yH26PBariHUHGlX8QW1HzWqeCeIYQpcmFnEwx6WQ35rJlThe3HZ1XrnnbqMnDKbFgQVmrqbU8Pgy63yOoYqgeJHR5GhDJv7RFMOtY829A%2FvjBeewr3q%2F7MNUNXYKZsPdHz58Qu6D"}],"group":"cf-nel","max_age":604800}',
+ 'Server': 'cloudflare',
+ 'Set-Cookie': 'connect.sid=s%3Aj5THWBjZDhQG6MdrzpafPDTP5kDyuGem.AhXWzo6B0%2BG5i%2Ftvr%2BE%2BmVJoMrIMyoDCF1W1G0X8j5M; '
+               'Path=/; HttpOnly',
+ 'Strict-Transport-Security': 'max-age=0; includeSubDomains; preload',
+ 'X-Content-Type-Options': 'nosniff',
+ 'X-Powered-By': 'Express'}
+Data : 
+('{"_id":"63a472e172eb67195000b958","creditor_claim":"FORM '
+ 'CA","email_id":"ajitpawar658@gmail.com","__v":0,"address_person_signing":"878 '
+ '/2 SHANIWAR PETH YASHWANT GARDEN '
+ 'SATARA","amount_claimed":75000,"bank_account_statement":"Yes","createdAt":"2022-12-22T15:08:17.306Z","creditor":"75000","details_bank_account":"CANARA '
+ 'BANK\\nAC NO : 110039025165\\nIFSC : '
+ 'CNRB0001085","details_debt_occured":"NA","details_mutual_credit_debt":"NA","details_security_held":"NA","doc_reference":"ON '
+ 'BUYING MEMBERSHIP AGAINST FOLIO NO '
+ '1052-01-4236","documents_attached":"AADHAR\\nPAN\\nBANK '
+ 'PASSBOOK\\nMEMBERSHIP '
+ 'RECIPET","edit_done":"yes","email_address_finacial_creditor":"ajitpawar658@gmail.com","folio_number":"1052-01-43015","form_attachments":"Yes","form_name":1200,"form_uploaded":"yes","from_address":"878/2 '
+ 'SHANWIAR PETH YASHWANT GARDEN SATARA","from_name":"DNYANESHWAR JIJABA '
+ 'SUL","identification_finacial_creditor":"75000","identification_type":"PAN","insolvency_prof":"Mr. '
+ 'Devang Subodh Thakar","insolvency_professional":"Mr. Devang Subodh '
+ 'Thakar","membership_certificate":"Yes","membership_expiry_date":"NaN/NaN/NaN","membership_number":"","name_in_block_letter":"DNYANESHWAR '
+ 'JIJABA SUL","name_of_creditor":"DNYANESHWAR JIJABA '
+ 'SUL","phone_number":"9881255454","position_with_creditor":"SELF","proof_of_interest":"No","registration_number":"BMNPS9836E","related_corporate_debtor":"I '
+ 'am '
+ 'not","rootFolderId":"1","rp_email":"inpclip@outlook.com","rp_id":"1","rp_name":" '
+ 'Pancard '
+ 'CIRP","signature_financial_creditor":"","updatedAt":"2022-12-30T12:47:50.691Z","upload_declaration":"No","upload_identification_proof":"Yes","form_downloaded":"yes","creditorFolderId":"30002"}')
