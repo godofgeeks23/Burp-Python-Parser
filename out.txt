@@ -1,5 +1,4 @@
 Reading File -  input_files/0
-Headers : 
 {'Access-Control-Allow-Origin': '*',
  'Alt-Svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400',
  'Cf-Cache-Status': 'DYNAMIC',
@@ -15,7 +14,6 @@ Headers :
  'Strict-Transport-Security': 'max-age=0; includeSubDomains; preload',
  'X-Content-Type-Options': 'nosniff',
  'X-Powered-By': 'Express'}
-Data : 
 ('{"_id":"63aebbb272eb67195005bc61","creditor_claim":"FORM '
  'CA","email_id":"kunalzagade15@gmail.com","__v":0,"address_person_signing":"401,Shreyas '
  'Complex,Tukaidarshan,Fursungi,Pune","amount_claimed":7560,"bank_account_statement":"No","createdAt":"2022-12-30T10:21:38.623Z","creditor":"5400","details_bank_account":"Ac '
@@ -34,7 +32,6 @@ Data :
  'DCirrus Resolute '
  'Ninteen","signature_financial_creditor":"","updatedAt":"2022-12-30T12:47:40.391Z","upload_declaration":"No","upload_identification_proof":"Yes","form_downloaded":"yes","creditorFolderId":"30001"}')
 Reading File -  input_files/1
-Headers : 
 {'Access-Control-Allow-Origin': '*',
  'Alt-Svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400',
  'Cf-Cache-Status': 'DYNAMIC',
@@ -50,7 +47,6 @@ Headers :
  'Strict-Transport-Security': 'max-age=0; includeSubDomains; preload',
  'X-Content-Type-Options': 'nosniff',
  'X-Powered-By': 'Express'}
-Data : 
 ('{"_id":"63aebbb272eb67195005bc61","creditor_claim":"FORM '
  'CA","email_id":"kunalzagade15@gmail.com","__v":0,"address_person_signing":"401,Shreyas '
  'Complex,Tukaidarshan,Fursungi,Pune","amount_claimed":7560,"bank_account_statement":"No","createdAt":"2022-12-30T10:21:38.623Z","creditor":"5400","details_bank_account":"Ac '
@@ -69,7 +65,6 @@ Data :
  'DCirrus Resolute '
  'Ninteen","signature_financial_creditor":"","updatedAt":"2022-12-30T12:47:40.391Z","upload_declaration":"No","upload_identification_proof":"Yes","form_downloaded":"yes","creditorFolderId":"30001"}')
 Reading File -  input_files/2
-Headers : 
 {'Access-Control-Allow-Origin': '*',
  'Alt-Svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400',
  'Cf-Cache-Status': 'DYNAMIC',
@@ -85,7 +80,6 @@ Headers :
  'Strict-Transport-Security': 'max-age=0; includeSubDomains; preload',
  'X-Content-Type-Options': 'nosniff',
  'X-Powered-By': 'Express'}
-Data : 
 ('{"_id":"63a472e172eb67195000b958","creditor_claim":"FORM '
  'CA","email_id":"ajitpawar658@gmail.com","__v":0,"address_person_signing":"878 '
  '/2 SHANIWAR PETH YASHWANT GARDEN '
