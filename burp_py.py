@@ -95,7 +95,8 @@ for filename in os.scandir(directory):
         json_post_data = json.loads(json_post_data)
         pprint(json_header)
         pprint(json_post_data)
-        with open("headers_"+filename.name+".json", "w") as outfile:
+        print()
+        with open("output_files/"+filename.name+"_headers.json", "w") as outfile:
             json.dump(json_header, outfile)
-        with open("data_"+filename.name+".json", "w") as outfile:
+        with open("output_files/"+filename.name+"_data.json", "w") as outfile:
         	json.dump(json_post_data, outfile)
